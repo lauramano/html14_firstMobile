@@ -1,0 +1,28 @@
+/* commant css */
+html {
+  font-size: 16px;
+  margin-bottom: 500px;
+}
+
+/* user cards css */
+.u-card {
+  text-align: center;
+  color: #999999;
+  border-bottom: 1px solid tomato;
+  border-bottom-color: inherit;
+  padding: 2rem 0;
+}
+.u-card__image {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border: 1px solid #c1c1c1;
+  padding: 8px;
+  margin-bottom: 2rem;
+}
+
+.u-card__title {
+  font-weight: normal;
+  font-size: 1.4rem;
+}
